@@ -1,0 +1,33 @@
+[[entries]]
+title = "📰 rss"
+url = "index.xml"
+
+
+[[entries]]
+title = "📝 blog"
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See all..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "🔗 links"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/shekspir55/"
+  
+  [[entries.entries]]
+  title = "mastodon հայ 🐘"
+  url = "https://թ.չոլ.հայ/@shekspir55"
+
+  [[entries.entries]]
+  title = "mastodon for Art 🐘"
+  url = "https://mstdn.social/@uru"
+
+
+[[entries]]
+title = "ℹ️ about me"
+url = "about"
+
