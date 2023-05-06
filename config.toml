@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://rbn.am/'
 languageCode = 'en-us'
 title = "Ruben's Blog | Ռուբենի Բլոգը"
 theme = 'nostyleplease'
