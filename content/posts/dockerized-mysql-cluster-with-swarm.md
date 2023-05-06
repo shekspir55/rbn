@@ -52,9 +52,9 @@ Add labels to swarm nodes, this is needed to force nodes to run on the swarm nod
     #for master swarm instance
     docker node update --label-add type=leader ID-GOES-HERE 
     #for master secondary instances
-    docker node update --label-add type=worker-2 ID-GOES-HERE
+    docker node update --label-add type=mysql-worker-2 ID-GOES-HERE
     #for master secondary instances
-    docker node update --label-add type=worker-3 ID-GOES-HERE 
+    docker node update --label-add type=mysql-worker-3 ID-GOES-HERE 
 ```
 
 ```sh
