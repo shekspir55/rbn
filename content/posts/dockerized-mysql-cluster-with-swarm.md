@@ -21,6 +21,9 @@ For our deployment of the 3-node InnoDB cluster using Docker Swarm, we have two 
 
 For our purposes, we'll be using the second strategy. This approach will allow us to have more control over the deployment, and ensure that each server has its own dedicated directory for the MySQL data. Let's take a closer look at the steps involved in this approach.
 
+### Note
+To distribute environment variables to all containers in a Docker Swarm cluster, you should embed them in the Docker Compose file. This is necessary because environment files are not distributed across all nodes in the cluster.
+
 ![Docker Swarm Diagram](/images/docker-swarm-mysql-diagram.svg)
 
 ### repo with source codes example
