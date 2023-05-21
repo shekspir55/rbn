@@ -5,6 +5,7 @@
     {{- if $.Site.Params.theme_config.show_description -}}
         <p>{{ $.Site.Params.description }}</p>
     {{- end -}}
+    <script async src="https://analytics.umami.is/script.js" data-website-id="ab5f0bfe-ffee-46aa-a43a-8a93cda2dff1"></script>
 </header>
 {{ .Content }}
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
