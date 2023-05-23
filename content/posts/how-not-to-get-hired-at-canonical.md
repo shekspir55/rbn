@@ -1,5 +1,5 @@
 ---
-title: "How not to get hired at Canonical"
+title: "How not to get hired at Canonical 📉💡"
 date: 2023-05-23T23:53:40+04:00
 draft: false
 ---
