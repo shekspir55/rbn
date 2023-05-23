@@ -12,9 +12,9 @@ With little hope but a lot of enthusiasm, I threw my hat into the Canonical ring
 
 They handed me a document to delve into my experience, my school grades in math (throwback much?), and my thoughts on various management topics. I guess they wanted to ensure that my love for math hasn't faded since school(I actually love Math❤️📚)! I dutifully filled out all 19 pages and sent it back.
 
-Next came the hurdle I dread the most: the dreaded Thomas psychometric test. You see, being an individual with ADHD, these tests and I...well, we have history. If you're not familiar, Thomas tests basically gauge a person's cognitive and personality traits. In a nutshell, it's not my favorite pastime. Unsurprisingly, my attempt ended with a rejection letter.
+Next came the hurdle I dread the most: the dreaded Thomas psychometric test. You see, being an individual with ADHD, these tests and I...well, we have history. If you're not familiar, Thomas tests basically gauge a person's cognitive and personality traits.🧠 In a nutshell, it's not my favorite pastime. Unsurprisingly, my attempt ended with a rejection letter.
 
-But, as they say, when you fall off the horse, you dust yourself off and ask the horse for feedback. So, I did! I asked for a detailed breakdown of my results and sure enough, there were areas I excelled in and others I didn't.
+But, as they say, when you fall off the horse, you dust yourself off and ask the horse for feedback.🐴✅ So, I did! I asked for a detailed breakdown of my results and sure enough, there were areas I excelled in and others I didn't.
 
 Spurred by this constructive feedback, I decided to take a detour and applied for an engineering role, thinking, "Well, I could learn from the inside and make my way up, right?"
 
