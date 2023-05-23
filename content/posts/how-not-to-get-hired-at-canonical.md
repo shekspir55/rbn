@@ -20,7 +20,7 @@ Spurred by this constructive feedback, I decided to take a detour and applied fo
 
 Once again, I was met with a response. The first round was a déjà vu of the initial test. The second round, however, was a coding session with a simple enough problem: reverse Polish notation. Given 2 hours, I finished it in a speedy 20 minutes! 💪🕒
 
-I naively assumed they might give me a pass on the Thomas test, seeing my previous score. But alas, it reared its ugly head again. After a few days of preparation, I...received another rejection.
+I naively assumed they might give me a pass on the Thomas test, seeing my previous score. But alas, it reared its ugly head again. After a few days of preparation, I submitted the test and...received another rejection.
 
 I'm still puzzled why a standardized test for quick brains trumps solving actual technical problems in the hiring process. After all, in the real world, there aren't any psychometric tests, just real problems to solve.
 
