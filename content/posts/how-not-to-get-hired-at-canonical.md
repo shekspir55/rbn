@@ -6,6 +6,8 @@ draft: false
 
 Hey everyone, allow me to take you on a behind-the-scenes tour of my adventure applying for a job at Canonical, the powerhouse behind our darling Ubuntu. 🚀
 
+![Ubuntu logo](/images/ubuntu-logo.svg)
+
 First, let me set the scene: I'm a seasoned software engineer and, like many of you, a huge fan of open source and Ubuntu. I had an itch to work remotely for a really good company and Canonical seemed like a dream come true. 🎯💼
 
 With little hope but a lot of enthusiasm, I threw my hat into the Canonical ring for the "Engineering Manager, Commercial Systems" role. Little did I know that my application would be one drop in a monthly ocean of 50,000!📩🗓️ So, you can imagine my surprise when they actually replied! 😱
