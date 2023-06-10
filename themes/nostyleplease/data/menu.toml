@@ -17,7 +17,11 @@ title = "📝 blog"
 title = "🔗 links"
 
   [[entries.entries]]
-  title = "github"
+  title = "linkedin 🔗"
+  url = "https://github.com/shekspir55/"
+  
+  [[entries.entries]]
+  title = "github 🐙"
   url = "https://github.com/shekspir55/"
   
   [[entries.entries]]
