@@ -1,6 +1,6 @@
 {{ define "main" }}
+<a href="/"><h1>{{ $.Site.Title }}</h1></a>
 {{ partial "back_link.html" .}}
-
 <article>
     <p class="post-meta">
         <time datetime="{{ .Date }}">
@@ -18,4 +18,7 @@
 
     {{ .Content }}
 </article>
+<hr/>
+<h2>Main Menu</h2>
+{{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
 {{ end }}
