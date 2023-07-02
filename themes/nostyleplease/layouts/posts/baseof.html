@@ -4,6 +4,9 @@
     <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
         <main class="page-content" aria-label="Content">
             <div class="w">
+                <a href="/" alt="rbn.am">
+                    <img src="/images/rbn.png" alt="rbn.am" width="80"/>
+                </a>
                 {{- block "main" . }}{{- end }}
             </div>
         </main>

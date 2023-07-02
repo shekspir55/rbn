@@ -1,4 +1,8 @@
 [[entries]]
+title = "ℹ️ about me"
+url = "about"
+
+[[entries]]
 title = "📰 rss"
 url = "index.xml"
 
@@ -32,8 +36,4 @@ title = "🔗 links"
   title = "mastodon for Art 🐘"
   url = "https://mstdn.social/@uru"
 
-
-[[entries]]
-title = "ℹ️ about me"
-url = "about"
 
