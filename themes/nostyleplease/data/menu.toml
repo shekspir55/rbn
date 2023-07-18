@@ -12,7 +12,7 @@ title = "👶 a young blog"
 [[entries]]
 title = "📝 blog"
   [entries.post_list]
-  limit = 5
+  limit = 10
   show_more = true
   show_more_text = "See all..."
   show_more_url = "posts"
