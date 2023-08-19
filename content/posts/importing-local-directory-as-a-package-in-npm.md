@@ -7,6 +7,8 @@ draft: false
 
 Sometimes, we need to modify third-party libraries for our projects, but we don't want to publish the changes as public packages. Both NPM and Yarn offer a simple solution to import a local directory as a package, allowing us to make modifications without the hassle of publishing.
 
+![linked in comment about patch-package](/images/linkedin-screenshot-patch-package.png)
+***Update:** if your use case allows storing "diff files" you can use https://www.npmjs.com/package/patch-package, otherwise continue reading.*
 
 Let's say we have package called `foo-pack`
 Using NPM:
