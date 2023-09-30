@@ -69,7 +69,7 @@ chsh -s $(which fish)
 
 ## disc and sync
 
-In this concise guide, we'll explore a simple yet effective method for backing up your data using the power of rsync. By following the advice of [norayr](norar.am), we'll configure a backup solution that provides peace of mind without the complexity of RAID. I have 2 disc configuration for my data storage except for my OS drive. Let's get started and secure your precious data! 💪💾
+In this concise guide, we'll explore a simple yet effective method for backing up your data using the power of rsync. By following the advice of [norayr](norayr.am), we'll configure a backup solution that provides peace of mind without the complexity of RAID. I have 2 disc configuration for my data storage except for my OS drive. Let's get started and secure your precious data! 💪💾
 
 Let's list all connected devices
 ```sh
