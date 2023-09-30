@@ -3,9 +3,11 @@ title: "Configuring own homebrew server - part 2: regain control of your data, s
 date: 2023-09-30T08:18:45+04:00
 draft: false
 ---
-Many of us don't want to give our data to big companies because they sometimes accidentally or on purpose share it, invade our privacy, or let the governments snoop. As computer programs get smarter and ads get creepier, it feels like companies are watching us.👁️(Actually they do.😢) 
+Many of us don't want to give our data to big companies because they sometimes accidentally or purposefully share it, invade our privacy, or let the governments sneak on us. As apps, websites,  computer programs get smarter and ads get creepier, it feels like companies are watching us.👁️ (They  actually do.😢) 
 
 Some people want to be in charge of their own data again so let's explore an option.
+
+So put on your tin foil hat and let's explore an alternative world.🎩
 
 ![cat in a hat](/images/homebrew-server/cat.jpg)
 
