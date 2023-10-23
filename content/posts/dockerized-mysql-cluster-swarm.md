@@ -70,6 +70,8 @@ Add labels to swarm nodes, this is needed to force nodes to run on the swarm nod
 
 ### now check mysql-shell logs for results
 
+# ⏭️ read next: [Tips on troubleshooting Docker Image build, Compose and Swarm issues 🐳🐳🐳](/posts/troubleshooting-docker-images-containers-and-swarm/)
+
 ## references:
 - https://dev.mysql.com/blog-archive/docker-compose-setup-for-innodb-cluster/
 - https://www.linkedin.com/pulse/dockerized-mysql-clustering-george-pentaris
