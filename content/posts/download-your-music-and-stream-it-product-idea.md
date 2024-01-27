@@ -30,6 +30,8 @@ All these products/companies someday die out or become evil corps and all your d
 
 This is a product Idea which I probably will not do. but who knows?
 
-# What if you set a budget, for buying music from Bandcamp, and the application fetches your tracks from Spotify and suggests buying something every month so you recreate your digital collection
+# What if you set a budget, for buying music from Bandcamp, and the application fetches your favorite tracks for a month from Spotify and suggests buying them on a monthly basis so you recreate your digital collection without spending huge money at once.
+
+## It's like a subscription but you own what you bought!
 
 This is the idea, I know this is not mainstream, but it could be nice to have it for me, so someday I will **quit streaming completely**.
