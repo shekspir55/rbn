@@ -1,5 +1,5 @@
 ---
-title: "Reflection: You Cant Learn to Draw Only by Watching Videos 🪨🪨"
+title: "Reflection: You Can't Learn to Draw Only by Watching Videos 🪨🪨"
 date: 2024-05-28T08:52:43+04:00
 draft: false
 ---
