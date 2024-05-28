@@ -4,7 +4,7 @@ date: 2024-05-28T08:52:43+04:00
 draft: false
 ---
 
-I went to sleep thinking about [Exposing Yourself Is Hard 🪨](/posts/exposing-yourself-is-hard.md) the last blog.
+I went to sleep thinking about [Exposing Yourself Is Hard 🪨](/posts/exposing-yourself-is-hard) the last blog.
 
 How am I expected to draw well, if I watched only videos? How can I validate myself and become better? I cannot. Not without external help, comments, reviews, etc...
 
