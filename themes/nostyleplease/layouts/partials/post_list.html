@@ -29,7 +29,10 @@
         {{- range $post := $posts -}}
         <li>
             <span>{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>
-            <a href="{{ $post.Permalink | absURL }}">{{ $post.Title }}</a>
+            <a href="{{ $post.Permalink | absURL }}"><b>{{ $post.Title }}</b></a>
+            <p>
+                {{ substr ($post.Content| plainify) 0 150 | safeHTML }}...
+            </p>
         </li>
         {{ end }}
         {{- if and .show_more $limit_exceeded }}
