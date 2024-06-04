@@ -35,4 +35,4 @@ It can potentially be compiled to wasm and be run in the browser, anyway your he
 To be continued, someday...
 
 # UPD
-Also a reminder that I will start soon a podcast with [open source founders and startups](/posts/starting-yet-another-podcast), so please let me know if you can suggest any idea for podcast name and maybe tell me if there are any people you would like to ask questions, and what format would you like to see in this podcast?
+Also a reminder that I will start soon a podcast with [open source founders and startups](/posts/starting-yet-another-podcast), so please let me know if you can suggest any idea for podcast name and maybe tell me if there are any people you would like me to interview to ask your questions, and what format would you like to see in this podcast?
