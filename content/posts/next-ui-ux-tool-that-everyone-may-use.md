@@ -33,3 +33,6 @@ If Inkscape is not willing to go with this route, anyone who believes in it can 
 It can potentially be compiled to wasm and be run in the browser, anyway your heart desires it. This is the power of **open source**.
 
 To be continued, someday...
+
+# UPD
+Also a reminder that I will start soon a podcast with [open source founders and startups](/posts/starting-yet-another-podcast), so please let me know if you can suggest any idea for podcast name and maybe tell me if there are any people you would like to ask questions, and what format would you like to see in this podcast?
