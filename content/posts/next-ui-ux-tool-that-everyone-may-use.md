@@ -26,7 +26,9 @@ Oh, do you know that the blender is **free** and **open source**?
 
 I hope it's **Inkscape**. I see it's big potential. It's software similar to Adobe Illustrator or Figma, it's vector art software that is simple has all the functionalities you need, and in my opinion, has a grandiose potential.
 
-If Inkscape is not willing to with this route anyone who believes in it can do it instead of them, as it's also free and **open source**. So either join them or fork them.
+If Inkscape is not willing to go with this route, anyone who believes in it can make it a reality, as it's also free and **open source**. 
+
+### So either join them or fork them. (better join them of course)
 
 It can potentially be compiled to wasm and be run in the browser, anyway your heart desires it. This is the power of **open source**.
 
