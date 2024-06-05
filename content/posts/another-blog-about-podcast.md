@@ -16,6 +16,6 @@ But what I really need is to talk to people who are my audience, for whom I am d
 
 To be clear, the concept for the podcast is to help people make a living with their open-source projects and to help people understand all the benefits and challenges of running an open-source business.
 
-If you resonate with this idea, please let me know what would you like to see and hear during the podcast. Who should I interview? What should I ask them? Also please suggest some
+If this idea resonates with you, please let me know what would you like to see and hear during the podcast. Who should I interview? What should I ask them? Also please suggest some
 
-If you don't resonate, thank you for reading.
+Otherwise, thank you for reading.
