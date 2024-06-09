@@ -15,7 +15,7 @@ I discovered that there are different ways of rest for me
 
 Do you know how to rest? Are you doing it regularly enough? 
 
-# Start by finding your ways to rest. Write down on paper what is your rest, and how you achieve it.
+# Start by finding your ways to rest. Write down on paper what is your ideal vacation, and try to think of ways ho to achieve it.
 
 
 
