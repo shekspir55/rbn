@@ -18,4 +18,4 @@ But what you are selling is the relationship with neighbors.
 
 # Nobody wants to have noisy neighbors but everyone wants to live in a renovated house. 
 
-I also found this brilliant conversation online https://www.youtube.com/watch?v=jOgqIbeLXkE I cannot rate how important was this conversation for me.
+I also found this brilliant podcast with practical tips on starting business. https://www.youtube.com/watch?v=jOgqIbeLXkE
