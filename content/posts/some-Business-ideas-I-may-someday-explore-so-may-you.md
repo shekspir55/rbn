@@ -1,5 +1,5 @@
 ---
-title: "Some Business Ideas I May Someday Explore So May You"
+title: "Some Business Ideas I May Someday Explore So May You 👩🏻‍🔧"
 date: 2024-06-09T22:14:19+04:00
 draft: false
 ---
