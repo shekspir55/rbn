@@ -1,7 +1,7 @@
 ---
 title: "Family as a Default Asset 👪️"
 date: 2024-06-16T22:48:32+04:00
-draft: true
+draft: false
 ---
 
 Today I spent the whole day with different members of my family.
