@@ -30,6 +30,10 @@ And now I finally decided to replace it, why did I decide now?
 
 Because I thought oh I spent so much money, I should continue investing in it starts working again, it's called sunk cost https://www.investopedia.com/terms/s/sunkcost.asp . How would I understand if it was a sunk cost? The repair man told me it's gonna work, and it did for a while.
 
-So the data was wrong, and after all I don't need this refrigerator, I need the food not to  spoil. This box doesn't do that job well, but these all are lessons that I learn.
+So the data was wrong, and after all, I don't need this refrigerator, I need the food not to spoil. This box doesn't do that job well, but these all are lessons that I learned.
 
-I don't regret anything, but now I see once more, that I should have stopped after "Buying a compressor" step.
+There was another indicator I should have noticed before. There were no repair manuals online, the website did not exist. The guarantee for the product didn't have parts, even when ordered, there were no people around who could debug it. 
+
+## I was so fascinated by the process of repair I probably didn't want to notice all these.
+
+I don't regret anything, but now I see once more, that I should have stopped after the "Buying a compressor" step.
