@@ -1,5 +1,5 @@
 ---
-title: "When You Feel Something Is Hard Go for It 🔨"
+title: "When You Feel Something Is Hard, Go for It 🔨"
 date: 2024-06-20T22:41:06+04:00
 draft: false
 ---
