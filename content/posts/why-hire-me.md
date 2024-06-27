@@ -18,7 +18,7 @@ I'm not just looking for any job. I want to work somewhere that values new ideas
 
 I'd love to work for:
 
-* Companies that want to make the world better
+* Remote companies that want to make the world better
 * Places that let people work from home
 * Teams that like open source and community work
 * Jobs that mix coding with big-picture thinking
