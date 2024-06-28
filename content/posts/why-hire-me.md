@@ -29,6 +29,6 @@ Let's build great things together!
 
 - [My CV](/resume/Resume-Ruben-Khachatryan.pdf)
 - [linkedin](https://www.linkedin.com/in/ruben-kh/)
-- My email shekspir55@gmail.com
+- My email ruben@rbn.am
 - My telegram [@shekspir55](http://t.me/shekspir55)
 - Or better jabber: shekspir55@spyurk.am
