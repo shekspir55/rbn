@@ -10,6 +10,4 @@ We have been discussing this yesterday. Change-making is hard, but we need to pr
 
 I knew about option 1, but what about option 2? Is it even possible?
 
-Yes, it is.
-
 You need to delegate the work to them, if you can convince them to help you, do that, if not, don't bother.
