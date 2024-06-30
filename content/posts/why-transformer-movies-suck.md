@@ -5,6 +5,8 @@ draft: false
 ---
 Disclaimer, this is not my opinion, this was a conversation from yesterday with my friend Tigran. I am not too familiar with the topic but I love how the "customer perspective", it's a part of important discovery from the point of view of a fan of the topic.
 
+## Tigran's words
+
 Optimus Prime was a father figure. A father figure cannot be depicted cutting a deception throat. It should say "Believe in yourself." and not be violent.
 
 It's not only a father figure but also a truck.
