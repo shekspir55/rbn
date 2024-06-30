@@ -7,7 +7,7 @@ Disclaimer, this is not my opinion, this was a conversation from yesterday with 
 
 ## Tigran's words
 
-Optimus Prime was a father figure. A father figure cannot be depicted cutting a deception throat. It should say "Believe in yourself." and not be violent.
+Optimus Prime was a father figure. A father figure cannot be depicted cutting a decepticon throat. It should say "Believe in yourself." and not be violent.
 
 It's not only a father figure but also a truck.
 
