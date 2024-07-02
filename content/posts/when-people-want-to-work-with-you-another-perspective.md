@@ -1,5 +1,5 @@
 ---
-title: "When People Want to Work With You, Another attempt 💼"
+title: "When People Want to Work With You, Another Attempt 💼"
 date: 2024-07-02T19:54:27+04:00
 draft: false
 ---
