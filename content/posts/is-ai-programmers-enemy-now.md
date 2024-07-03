@@ -7,7 +7,6 @@ We may think AI is taking all the jobs, but it's not true.
 
 ### I tried Copilot and it's an awesome tool for developers, unfortunately, a proprietary one.
 
-
 # The villain is recession
 
 In times of recession, we can find many villains but the only thing that is bad now is the market. The market cannot afford new solutions.
@@ -22,4 +21,4 @@ How I see AI in a new market is quite simple: AI will help to have smaller teams
 
 Nocode is awesome. It allows people without technical backgrounds to create sites, automation, platforms and monetize them.
 
-# No code is what programmers should be afraid of :D
+# No-code is what programmers should be afraid of :D
