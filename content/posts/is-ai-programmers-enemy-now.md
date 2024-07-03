@@ -13,10 +13,10 @@ Those who are new in the market may panic and think that everything is bad and i
 
 ## Recessions happen from time to time then everything recovers.
 
-How I see AI in a new market is quite simple: AI will help to have smaller teams so people can ship to the market faster with fewer resources.
+How I see AI in a new market is quite simple: AI will help to have smaller teams. People will be able to ship to the market faster with fewer resources.
 
 ## But what I think we don't often talk about is no-code applications.
 
 Nocode is awesome. It allows people without technical backgrounds to create sites, automation, platforms and monetize them.
 
-# No code is what programmers should fear :D
+# No code is what programmers should be afraid of :D
