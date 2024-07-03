@@ -15,7 +15,7 @@ Those who are new in the market may panic and think that everything is bad and i
 
 How I see AI in a new market is quite simple: AI will help to have smaller teams so people can ship to the market faster with fewer resources.
 
-But what I think we don't often talk about is no-code applications.
+## But what I think we don't often talk about is no-code applications.
 
 Nocode is awesome. It allows people without technical backgrounds to create sites, automation, platforms and monetize them.
 
