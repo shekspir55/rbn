@@ -1,5 +1,5 @@
 ---
-title: "My Dogs Can't Swallow Pills 🐕‍🦺💊"
+title: "My Dog Can't Swallow Pills 🐕‍🦺💊"
 date: 2024-07-06T19:58:40+04:00
 draft: false
 ---
