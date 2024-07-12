@@ -27,6 +27,7 @@ If you know of any jobs that might fit me, or if you want to talk about how I co
 
 Let's build great things together!
 
+- [Book a meeting with me](https://cal.com/ruben-k/)
 - [My CV](/resume/Resume-Ruben-Khachatryan.pdf)
 - [linkedin](https://www.linkedin.com/in/ruben-kh/)
 - My email ruben@rbn.am
