@@ -17,4 +17,4 @@ I use browser extensions like
 
 Of course, Chrome alternatives exist, but my point is not to show tools. 
 
-# Big corporations and media tend to think they know what we need, but sometimes what we need is a little more control over our life and attention.
+# Big corporations and media tend to think they know what we need, but sometimes it's to get back a little more control over our lives and attention.
