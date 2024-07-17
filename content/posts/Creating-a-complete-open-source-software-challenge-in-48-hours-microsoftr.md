@@ -1,5 +1,5 @@
 ---
-title: "Creating a Complete Open Source Software Challenge in 48 Hours Microsoftr👨🏻‍💻"
+title: "Creating a Complete Open Source Software Challenge in 48 Hours: Microsoftr👨🏻‍💻"
 date: 2024-07-17T17:55:58+04:00
 draft: false
 ---
