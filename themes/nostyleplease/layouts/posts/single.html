@@ -18,9 +18,11 @@
 
     {{ .Content }}
 </article>
+<hr>
+<h3>Please give me feedback, comment on whatever you think about my blog post, and help me improve. ❤️</h3>
+
 <div id="zoomment" data-theme="light" data-language="en" data-emotions="❤️,😀,👏🏻,🤔,💩,😢"  data-show-page-views="true"></div>
 <script src="https://cdn.zoomment.com/zoomment.min.js"></script>
-<hr/>
 <h2>Blog Menu</h2>
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
 {{ end }}
