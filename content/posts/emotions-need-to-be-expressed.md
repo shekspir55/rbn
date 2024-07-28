@@ -1,7 +1,7 @@
 ---
 title: "Emotions Need to Be Expressed 👺"
 date: 2024-07-27T21:38:12+04:00
-draft: true
+draft: false
 ---
 
 2 days in a row I talk to friends and family members, who are suppressing their emotions. The result of this is emotional burnout, depression, and physical illnesses.
