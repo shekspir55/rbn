@@ -1,7 +1,7 @@
 ---
 title: "I Didn't Save a Man's Life Today"
 date: 2024-08-01T21:51:19+04:00
-draft: true
+draft: false
 ---
 But I've tried. 
 
