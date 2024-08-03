@@ -11,4 +11,4 @@ And Telegram advertises itself as not having algorithms, and now your attention 
 
 For me it's simple if I see a message I should read, I should see 0 notifications, 0 messages. Otherwise, I will ignore everything. I unsubscribe from as much media as possible so I can finally focus.
 
-Please take a break, talk to people, and ask them how they feel.
+# Please take a break, talk to people, and ask them how they feel. It's time to reconnect again.
