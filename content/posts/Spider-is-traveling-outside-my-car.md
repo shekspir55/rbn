@@ -1,7 +1,7 @@
 ---
 title: "Spider Is Traveling Outside My Car 🕷️🚗"
 date: 2024-08-10T22:58:23+04:00
-draft: true
+draft: false
 ---
 2 months ago I found it, weaving webs outside my window. In my opinion, it's not the best place to do so.
 
