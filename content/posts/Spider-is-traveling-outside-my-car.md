@@ -9,7 +9,8 @@ Generally, I don't travel too much, on average a couple of times a week in the c
 
 Imagine being a spider traveling at a speed of 90 km/h outside the car,🕷️🏎️  and sometimes finding yourself in different cities, tasting a diversity of bugs.🐛
 
-So why my car? Why not a tree?
+### So why my car? Why not a tree?
+
 The spider seems very successful, it has grown 4 times in these 2 months.
 
 My wife thinks that the car is yellow, and it attracts bugs thus making the spider very successful and this theory makes sense.
