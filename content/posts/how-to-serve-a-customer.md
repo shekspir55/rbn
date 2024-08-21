@@ -1,7 +1,7 @@
 ---
 title: "How to Serve a Customer 🍦"
 date: 2024-08-21T15:03:54+04:00
-draft: true
+draft: false
 ---
 
 Some of you know I have a consultancy https://powered-by.love (website is under construction) which provides consulting services as well as services for fractional CTO roles.
