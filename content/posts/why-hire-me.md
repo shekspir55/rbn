@@ -5,6 +5,8 @@ draft: false
 ---
 I'm looking for a new job as an Fractional CTO / Engineering Manager or Full Stack Developer. I'm excited to find a place where I can use my skills and experience to make a real difference.
 
+# my consultancy https://powered-by.love
+
 What I'm Good At:
 
 * 12 years of coding experience, with 6 years working from home
