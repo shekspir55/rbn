@@ -3,9 +3,6 @@ title: "How to Write a Forwardable Message 📧"
 date: 2024-09-05T21:16:17+04:00
 draft: false
 ---
-
-
-
 I need to introduce myself and busy people are willing to help me, but I need to write a forwardable message to "help them help me"
 
 The structure is 
@@ -15,7 +12,7 @@ The structure is
 
 Here is how I do it.
 
-        Hi XXXX, I would like to ask you to introduce me to some people who might help me with my Software Engineering and management consultancy.
+        Hi XXXX,  I would like to ask you to introduce me to some people who might help find opportunities for  my "Software Engineering and Management consultancy".
 
         My consultancy(PBL) offers services that optimize server infrastructure, help hire  leadership and
         build technical teams, guide tech strategy and performance, modernize legacy systems, provide
