@@ -5,7 +5,7 @@ draft: false
 ---
 I don't know much about data or ML or LLMs other under the hood. Despite that today I went to the conference.
 
-What I saw was incredible. Enthusiastic people math nerds, data people, and people who knew  ML all in one place, networking and talking to each other. Representatives of Nvidia, AWS, Yandex NV, and YerevaNN were there. All thanks to couple of enthusiasts who were doing this every year.
+What I saw was incredible. Enthusiastic people math nerds, data people, and people who knew  ML all in one place, networking and talking to each other. Representatives of Nvidia, AWS, Yandex NV, and YerevaNN were there. All thanks to couple of enthusiasts who were doing organizing this event for the fifth time.
 
 Energy levels are high. I attended a couple of talks and loved it.
 
