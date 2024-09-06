@@ -9,6 +9,6 @@ What I saw was incredible. Enthusiastic people math nerds, data people, and peop
 
 Energy levels are high. I attended a couple of talks and loved it.
 
-# Now my world is a bit wider.
+# Now my bubble is a bit wider.
 
 If you are near Yerevan, I suggest going there tomorrow.
