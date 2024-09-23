@@ -17,4 +17,4 @@ I commit that I will
 
 Was not posting due to the cause that I was sick and busy with personal staff.
 
-It's so much harder and so much easier to blog than before, it's hard to choose from topics, but I know the answer I have a system for that. I will choose the one I like and if there is no favorite I will iterate and reiterate․
+It's so much harder and so much easier to blog than before. It's hard to choose from topics, but I know the answer I have a system for that. I will choose the one I like and if there are no favorites: I will iterate and reiterate․
