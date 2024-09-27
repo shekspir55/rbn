@@ -14,4 +14,4 @@ All people are people.
 
 I would go to other conferences to talk to people again soon. In the meantime I have 3-4 podcasts to do next week. https://www.youtube.com/@Powered.Podcast
 
-I have tremendous amount of work todo, so let's start.
+I have tremendous amount of work to do, so let's start.
