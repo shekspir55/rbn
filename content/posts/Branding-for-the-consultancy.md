@@ -15,3 +15,7 @@ Now will be a challenge for the community, to brainstorm and understand which on
 
 
 let's see where it goes!
+
+
+# UPD
+One more voting on mastodon same as linkedin!
