@@ -1,6 +1,6 @@
 ---
 title: "One Week Later ⌛️"
-date: 2024-11-07T23:01:47+04:00
+date: 2024-11-07T01:01:47+04:00
 draft: false
 ---
 
