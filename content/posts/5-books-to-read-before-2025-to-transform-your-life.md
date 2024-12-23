@@ -1,5 +1,5 @@
 ---
-title: "5 Books to Read Before 2025 to Transform Your Life"
+title: "5 Books to Read Before 2025 to Transform Your Life 📚️"
 date: 2024-12-23T06:19:06+04:00
 draft: false
 ---
