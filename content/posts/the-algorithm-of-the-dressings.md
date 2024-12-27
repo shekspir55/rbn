@@ -1,5 +1,5 @@
 ---
-title: "The Algorithm of the Dressings 🥬+🥕+❓️=🥗"
+title: "The Algorithm of the Dressings 🥬➕🥕➕❓️🟰🥗"
 date: 2024-12-28T00:03:01+04:00
 draft: false
 ---
