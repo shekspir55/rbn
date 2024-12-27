@@ -58,4 +58,4 @@ It's a sauce that you put on the salad to make it tasty.
 
 I've created 2 dressings for this simple salad, it's very easy and tasty, but each dressing tastes different. Oil/fats + acids + spices +  and(optional) mustard/honey.
 
-Try different combinations, and comment on your favorite.
+Try different combinations with any vegetables, and comment on your favorite.
