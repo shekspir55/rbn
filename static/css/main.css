@@ -1,0 +1,55 @@
+/* Basic styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.w {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Post styles */
+.post-meta {
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* Menu styles */
+.menu {
+    margin-top: 2em;
+}
+
+.menu-item {
+    margin-bottom: 1em;
+}
+
+.menu-item a {
+    display: block;
+    padding: 0.5em 0;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .w {
+        padding: 10px;
+    }
+} 
