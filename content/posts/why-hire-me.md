@@ -26,7 +26,7 @@ I'd love to work for:
 * **Remote companies** that want to make the world better
 * Places that let people work from home
 * Teams that like open source and community work
-* Jobs that mix coding with big-picture thinking
+* Jobs that mix code and buisness
 * Find real world Blockchain applications that transform
 
 If you know of any jobs that might fit, or if you want to talk about how I could help your team, please let me know. I'm ready to start something new and work on projects that matter.
