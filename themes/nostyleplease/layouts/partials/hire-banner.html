@@ -1,5 +1,5 @@
 <div class="hire-banner">
-    <a href="/posts/why-hire-me">🚀 Looking for a Fractional CTO or Full Stack Developer? Consider hiring me!</a>
+    <a href="/posts/why-hire-me">🚀 Looking for a Fractional CTO or Full Stack Developer? Click here to learn more!</a>
 </div>
 
 <style>
@@ -8,12 +8,26 @@
     top: 0;
     left: 0;
     right: 0;
-    background-color: #FFD700;
+    background: linear-gradient(90deg, #FFD700, #FFA500, #FFD700);
+    background-size: 200% 100%;
     color: #000;
     text-align: center;
     padding: 10px;
     z-index: 1000;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    animation: gradient 8s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
 .hire-banner a {

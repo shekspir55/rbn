@@ -1,6 +1,6 @@
 [[entries]]
 title = "💼 hire my consultancy"
-url = "https://powered-by.love/"
+url = "https://cubeunity.com/"
 
 [[entries]]
 title = "ℹ️ about me"
@@ -9,6 +9,10 @@ url = "about"
 [[entries]]
 title = "📰 rss"
 url = "index.xml"
+
+[[entries]]
+title = "⌛️ Spend a day with me"
+url = "/spend-a-day"
 
 [[entries]]
 title = "tech and life"
@@ -20,6 +24,7 @@ title = "📝 blogs"
   show_more = true
   show_more_text = "See all..."
   show_more_url = "posts"
+  section = "posts"
 
 [[entries]]
 title = "🔗 links"

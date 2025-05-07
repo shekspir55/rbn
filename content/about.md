@@ -5,7 +5,7 @@ layout: "about"
 ---
 ### Welcome to my blog.
 
-I'm Ruben, Software developer and SVG "Artist", civic enthusiast and entrepreneur. 
+I'm Ruben, Software engineer and SVG "Artist", civic enthusiast and entrepreneur. 
 
 ![Սլովակիա Man in town](/images/Սլովակիա֊Man֊in֊town.png)
 
