@@ -11,10 +11,10 @@ title = "📰 rss"
 url = "index.xml"
 
 [[entries]]
-title = "🛸 a young blog"
+title = "tech and life"
 
 [[entries]]
-title = "📝 blog"
+title = "📝 blogs"
   [entries.post_list]
   limit = 10
   show_more = true

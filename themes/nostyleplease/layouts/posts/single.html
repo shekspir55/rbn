@@ -19,22 +19,10 @@
     {{ .Content }}
 </article>
 <hr>
-<h3>Please give me feedback, comment on whatever you think about my blog post, and help me improve. ❤️</h3>
+<h3>Please give me feedback or make a comment on whatever help me improve. ❤️</h3>
 
 <div id="zoomment" data-theme="light" data-language="en" data-emotions="❤️,😀,👏🏻,🤔,💩,😢"  data-show-page-views="true"></div>
 <script src="https://cdn.zoomment.com/zoomment.min.js"></script>
-
-
-<!-- MailerLite Universal -->
-<script>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '1034365');
-</script>
-<!-- End MailerLite Universal -->
-<div class="ml-embedded" data-form="MxMKli"></div>
 
 <h2>Blog Menu</h2>
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
