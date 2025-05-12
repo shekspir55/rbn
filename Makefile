@@ -4,7 +4,7 @@ pull:
 # commit changes should contain the changed file names	
 push:
 	git add .
-	git commit -m "update the code $(shell git log -1 --pretty=%h)"
+	git commit -m "update the code $(shell git status -s)"
 	git push
 
 .ONESHELL:
