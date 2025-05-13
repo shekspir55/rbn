@@ -1,0 +1,9 @@
+{{ $slug := . }}
+{{ $slug := strings.TrimPrefix "$" $slug }}
+{{ $slug := strings.TrimSuffix "$" $slug }}
+{{ $pages := where site.RegularPages "File.TranslationBaseName" $slug }}
+{{ if $pages }}
+  {{ return (index $pages 0).Title }}
+{{ else }}
+  {{ return $slug }}
+{{ end }} 

@@ -1,0 +1,3 @@
+{{ $content := .Text }}
+{{ $content := $content | replaceRE "\\[\\[([^\\]]+)\\]\\]" "<a href=\"/posts/reducing-the-friction-to-post/\" class=\"wikilink\">Reducing the Friction to Post 🌪️</a>" }}
+{{ $content | safeHTML }} 

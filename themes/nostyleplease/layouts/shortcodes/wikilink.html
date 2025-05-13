@@ -1,0 +1,9 @@
+{{ $slug := .Get 0 }}
+{{ $pages := where .Site.Pages "File.TranslationBaseName" $slug }}
+{{ $title := "" }}
+{{ if $pages }}
+  {{ $title = (index $pages 0).Title }}
+{{ else }}
+  {{ $title = $slug }}
+{{ end }}
+<a href="/posts/{{ $slug }}/" class="wikilink">{{ $title }}</a> 
