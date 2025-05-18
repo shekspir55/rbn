@@ -17,3 +17,5 @@ But in global setting there are 3 main reasons to win
 3. Context - how good people understand the persons struggles
 
 Unfortunately, context, which is the most representative of equality, is in the last place.
+
+UPD: Context + being an outliner in the category you are e.g. are you freeky enough? are you old but a different kind of old? Do you look different and act in dramatically different way.
