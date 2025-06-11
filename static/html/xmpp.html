@@ -15,6 +15,22 @@
             font-weight: 400;
             color: #333;
         }
+        .register-button {
+            background-color: #28a745;
+            border-color: #28a745;
+        }
+        .register-button:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+        .button-outline {
+            color: #007bff;
+            border-color: #007bff;
+        }
+        .button-outline:hover {
+            background-color: #007bff;
+            color: white;
+        }
     </style>
 
 </head>
@@ -45,7 +61,7 @@
         <h2>📡 Ինտերնետի Պատմությունը</h2>
         <blockquote cite="#">
             <p><strong>Ինտերնետը ստեղծվել է ապակենտրոնացված</strong> - առանց կենտրոնական վերահսկիչ կետի։ Բայց մեծ կորպորացիաները կենտրոնացրեցին այն և դարձրին վերահսկման գործիք։</p>
-            <p><strong>XMPP-ն վերադարձնում է ինտերնետի նախնական տեսլականը։</strong></p>
+            <p><strong>XMPP-ն վերադարձնում է ինտերնետի նախնական տեսլականը և ինքնիշխանությունը։</strong></p>
         </blockquote>
         
         <!-- Surveillance Section -->
@@ -77,12 +93,13 @@
         <!-- Telegram Evidence -->
         <h2>🔍 Telegram-ի Իրական Դեմքը</h2>
         <blockquote cite="#">
-            <p><strong>Պավել Դուրովի "ասիստենտը" Յուլիա Վավիլովան</strong> Instagram-ում լուսանկար է հրապարակել ադրբեջանական կիբեռանվտանգության կենտրոնից՝ իսրայելական և ադրբեջանական կիբեր մասնագետներով։</p>
+            <p><strong>Պավել Դուրովի "ասիստենտը" Յուլիա Վավիլովան</strong> Instagram-ում լուսանկար է հրապարակել ադրբեջանական կիբեռանվտանգության կենտրոնից՝ կիբեր մասնագետների հետ։</p>
             <p><a href="https://t.me/ararathau/23988" target="_blank" rel="noopener" class="button button-outline">Տեսնել Telegram-ում →</a></p>
         </blockquote>
         
         <!-- XMPP Solution -->
         <h2>🛡️ անվտանգ այլընտրանք</h2>
+        <p><em>Հաստատ այդքան հարմարավետ չէ ինչպես Telegram-ը, բայց շատ անվտանգ է և շատ դեպքերում շատ արագ։</em></p>
         <blockquote cite="#">
             <p><strong>XMPP-ն ձեզ ազատություն է տալիս.</strong></p>
             <ul>
@@ -93,37 +110,55 @@
             <p><strong>Դա է ճիշտ ապակենտրոնացումը:</strong></p>
         </blockquote>
         
+        <!-- OMEMO Encryption -->
+        <h2>🔐 OMEMO Գաղտնագրում</h2>
+        <blockquote cite="#">
+            <p><strong>OMEMO գաղտնագրմամբ ձեր նամակները բացարձակապես անվտանգ են:</strong></p>
+            <ul>
+                <li><strong>Ոչ ոք չի կարող կարդալ</strong> - անգամ սերվերի տերը</li>
+                <li><strong>Միայն ձեր սարքերի վրա</strong> - եթե նամակը չի ուղարկվել կոնկրետ սարքին, այն չի երևա այդտեղ</li>
+                <li><strong>Ուրիշները տեսնում են միայն գաղտնագրված տեքստ</strong> - բացառությամբ նամակի ստացողի</li>
+            </ul>
+        </blockquote>
+        
         <!-- XMPP Clients -->
         <h2>📱 XMPP Հավելվածներ</h2>
         
+        <blockquote cite="#">
+            <p style="text-align: center;">
+                <strong>Սկսեք jabber.am-ում:</strong><br>
+                <a href="https://jabber.am" target="_blank" class="button register-button">Գրանցվել jabber.am-ում</a>
+            </p>
+        </blockquote>
+        
         <div class="row">
             <div class="column">
-                <h4>📱 Android</h4>
+                <h4>🤖 Android</h4>
                 <p>
-                    <a href="https://f-droid.org/packages/eu.siacs.conversations/" target="_blank" class="button">Conversations</a>
+                    <a href="https://f-droid.org/packages/eu.siacs.conversations/" target="_blank" class="button button-outline">Conversations</a>
                 </p>
                 <p>
-                    <a href="https://blabber.im" target="_blank" class="button">blabber.im</a>
+                    <a href="https://blabber.im/" target="_blank" class="button button-outline">blabber.im</a>
                 </p>
             </div>
             
             <div class="column">
                 <h4>📱 iPhone</h4>
                 <p>
-                    <a href="https://apps.apple.com/app/siskin-im/id1153516838" target="_blank" class="button">Siskin IM</a>
+                    <a href="https://apps.apple.com/app/siskin-im/id1153516838" target="_blank" class="button button-outline">Siskin IM</a>
                 </p>
                 <p>
-                    <a href="https://apps.apple.com/app/monal/id317711500" target="_blank" class="button">Monal</a>
+                    <a href="https://apps.apple.com/app/monal/id317711500" target="_blank" class="button button-outline">Monal</a>
                 </p>
             </div>
             
             <div class="column">
                 <h4>💻 Համակարգիչ</h4>
                 <p>
-                    <a href="https://gajim.org" target="_blank" class="button">Gajim</a>
+                    <a href="https://gajim.org" target="_blank" class="button button-outline">Gajim</a>
                 </p>
                 <p>
-                    <a href="https://dino.im" target="_blank" class="button">Dino</a>
+                    <a href="https://dino.im" target="_blank" class="button button-outline">Dino</a>
                 </p>
             </div>
         </div>
