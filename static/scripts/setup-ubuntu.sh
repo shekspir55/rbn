@@ -40,7 +40,7 @@ echo ""
 echo "🔥 Firewall Configuration"
 echo "Would you like to open ports 80 (HTTP) and 443 (HTTPS) in the firewall?"
 echo "This is useful for web servers and SSL certificates."
-read -p "Open firewall ports 80 and 443? (y/N): " -n 1 -r
+read -p "Open firewall ports 80 and 443? (y/N): " -n 1 -r < /dev/tty
 echo ""
 CONFIGURE_FIREWALL=$REPLY
 
