@@ -2,7 +2,7 @@ pull:
 	git pull
 
 # commit changes should contain the changed file names	
-push:
+commit-and-push:
 	git add .
 	git commit -m "update the code $(shell git status -s)"
 	git push
