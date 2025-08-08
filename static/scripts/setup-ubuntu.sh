@@ -18,6 +18,7 @@ echo "  - Fish shell (set as default for all users)"
 echo "  - Docker & Docker Compose"
 echo "  - htop (system monitor)"
 echo "  - mc (Midnight Commander file manager)"
+echo "  - make (build automation tool)"
 echo "  - SSH security hardening (disable password auth)"
 echo "  - Generate secure SSH key pair (if not exists)"
 echo ""
@@ -51,8 +52,8 @@ echo "📦 Updating package index..."
 sudo apt update
 
 # Install essential tools
-echo "🛠️ Installing essential tools (htop, mc)..."
-sudo apt install -y htop mc
+echo "🛠️ Installing essential tools (htop, mc, make)..."
+sudo apt install -y htop mc make
 
 # Install Fish shell
 echo "🐠 Installing Fish shell..."
@@ -290,6 +291,12 @@ if command -v mc &> /dev/null; then
     echo "✅ Midnight Commander installed"
 else
     echo "❌ Midnight Commander installation failed"
+fi
+
+if command -v make &> /dev/null; then
+    echo "✅ make installed"
+else
+    echo "❌ make installation failed"
 fi
 
 if command -v docker &> /dev/null; then
