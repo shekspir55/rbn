@@ -12,12 +12,6 @@
 set -e  # Exit on any error
 
 # ASCII Art
-echo "    ____        __                 "
-echo "   / __/____   / /_ __  __ ____    "
-echo "  _\ \ / __ \ / __// / / // __ \   "
-echo " /___/ \____/ \__/ \__,_// /_/ /   "
-echo "                        \____/    "
-echo ""
 echo "🚀 Starting Ubuntu server setup..."
 echo "This script will install:"
 echo "  - Fish shell (set as default for all users)"
