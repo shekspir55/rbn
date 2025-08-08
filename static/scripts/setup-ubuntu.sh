@@ -19,6 +19,7 @@ echo "  - Docker & Docker Compose"
 echo "  - htop (system monitor)"
 echo "  - mc (Midnight Commander file manager)"
 echo "  - SSH security hardening (disable password auth)"
+echo "  - Generate secure SSH key pair (if not exists)"
 echo ""
 
 # Check if running as root
@@ -207,6 +208,23 @@ else
     echo "⏭️  Firewall configuration skipped"
 fi
 
+# Generate SSH key if not exists
+echo ""
+echo "🔑 Generating SSH key..."
+
+# Create .ssh directory if it doesn't exist
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+
+# Generate SSH key if it doesn't exist
+if [ ! -f ~/.ssh/id_ed25519 ]; then
+    echo "Generating new ED25519 SSH key..."
+    ssh-keygen -t ed25519 -C "$USER@$(hostname)" -f ~/.ssh/id_ed25519 -N ""
+    echo "✅ SSH key generated: ~/.ssh/id_ed25519"
+else
+    echo "⏭️  SSH key already exists: ~/.ssh/id_ed25519"
+fi
+
 # Configure SSH security
 echo ""
 echo "🔒 Configuring SSH security..."
@@ -300,3 +318,14 @@ echo "  - mc: Launch Midnight Commander file manager"
 echo "  - fish_config: Open Fish web-based configuration"
 echo "  - docker ps: List running containers"
 echo "  - docker buildx: Multi-platform builds (included with Docker)"
+
+# Display SSH public key
+echo ""
+echo "🔑 SSH Public Key (add this to your Git provider, other servers, etc.):"
+echo "────────────────────────────────────────────────────────────────────────"
+if [ -f ~/.ssh/id_ed25519.pub ]; then
+    cat ~/.ssh/id_ed25519.pub
+else
+    echo "❌ SSH public key not found"
+fi
+echo "────────────────────────────────────────────────────────────────────────"
