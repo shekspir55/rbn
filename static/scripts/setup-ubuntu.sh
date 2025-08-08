@@ -18,6 +18,7 @@ echo "  - Fish shell (set as default for all users)"
 echo "  - Docker & Docker Compose"
 echo "  - htop (system monitor)"
 echo "  - mc (Midnight Commander file manager)"
+echo "  - SSH security hardening (disable password auth)"
 echo ""
 
 # Check if running as root
@@ -170,6 +171,7 @@ if [[ $CONFIGURE_FIREWALL =~ ^[Yy]$ ]]; then
     # Check if ufw is available
     if command -v ufw &> /dev/null; then
         echo "Using ufw (Uncomplicated Firewall)..."
+        sudo ufw allow 22/tcp
         sudo ufw allow 80/tcp
         sudo ufw allow 443/tcp
         
@@ -179,9 +181,10 @@ if [[ $CONFIGURE_FIREWALL =~ ^[Yy]$ ]]; then
             echo "y" | sudo ufw enable
         fi
         
-        echo "✅ Ports 80 and 443 opened with ufw"
+        echo "✅ Ports 22, 80 and 443 opened with ufw"
     elif command -v iptables &> /dev/null; then
         echo "Using iptables..."
+        sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
         sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
         sudo iptables -A INPUT -p tcp --dport 443 -j ACCEPT
         
@@ -195,13 +198,57 @@ if [[ $CONFIGURE_FIREWALL =~ ^[Yy]$ ]]; then
             echo "   Consider installing iptables-persistent package"
         fi
         
-        echo "✅ Ports 80 and 443 opened with iptables"
+        echo "✅ Ports 22, 80 and 443 opened with iptables"
     else
         echo "⚠️  No supported firewall found (ufw or iptables)"
         echo "   You may need to configure firewall manually"
     fi
 else
     echo "⏭️  Firewall configuration skipped"
+fi
+
+# Configure SSH security
+echo ""
+echo "🔒 Configuring SSH security..."
+
+# Check if we have SSH keys configured before disabling password auth
+if [ ! -f ~/.ssh/authorized_keys ] || [ ! -s ~/.ssh/authorized_keys ]; then
+    echo "⚠️  WARNING: No SSH keys found in ~/.ssh/authorized_keys"
+    echo "   Password authentication will NOT be disabled to prevent lockout"
+    echo "   Please add your SSH public key first, then run:"
+    echo "   sudo sed -i 's/#PasswordAuthentication yes/PasswordAuthentication no/' /etc/ssh/sshd_config"
+    echo "   sudo systemctl restart ssh"
+else
+    echo "✅ SSH keys found, proceeding with security hardening..."
+    
+    # Backup original sshd_config
+    sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.backup.$(date +%Y%m%d_%H%M%S)
+    
+    # Disable password authentication
+    sudo sed -i 's/#*PasswordAuthentication yes/PasswordAuthentication no/' /etc/ssh/sshd_config
+    sudo sed -i 's/#*PasswordAuthentication no/PasswordAuthentication no/' /etc/ssh/sshd_config
+    
+    # Disable challenge response authentication
+    sudo sed -i 's/#*ChallengeResponseAuthentication yes/ChallengeResponseAuthentication no/' /etc/ssh/sshd_config
+    sudo sed -i 's/#*KbdInteractiveAuthentication yes/KbdInteractiveAuthentication no/' /etc/ssh/sshd_config
+    
+    # Disable empty passwords
+    sudo sed -i 's/#*PermitEmptyPasswords yes/PermitEmptyPasswords no/' /etc/ssh/sshd_config
+    
+    # Ensure PubkeyAuthentication is enabled
+    sudo sed -i 's/#*PubkeyAuthentication no/PubkeyAuthentication yes/' /etc/ssh/sshd_config
+    sudo sed -i 's/#PubkeyAuthentication yes/PubkeyAuthentication yes/' /etc/ssh/sshd_config
+    
+    # Test SSH config
+    if sudo sshd -t; then
+        echo "✅ SSH configuration is valid"
+        sudo systemctl restart ssh
+        echo "✅ SSH service restarted with new security settings"
+        echo "🔒 Password authentication is now DISABLED"
+    else
+        echo "❌ SSH configuration test failed, restoring backup"
+        sudo cp /etc/ssh/sshd_config.backup.$(date +%Y%m%d_%H%M%S) /etc/ssh/sshd_config
+    fi
 fi
 
 # Verify installations
