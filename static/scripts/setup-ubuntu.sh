@@ -17,6 +17,7 @@ echo "This script will install:"
 echo "  - Fish shell (set as default for all users)"
 echo "  - Docker & Docker Compose"
 echo "  - htop (system monitor)"
+echo "  - btop (modern system monitor)"
 echo "  - mc (Midnight Commander file manager)"
 echo "  - make (build automation tool)"
 echo "  - SSH security hardening (disable password auth)"
@@ -52,8 +53,8 @@ echo "📦 Updating package index..."
 sudo apt update
 
 # Install essential tools
-echo "🛠️ Installing essential tools (htop, mc, make)..."
-sudo apt install -y htop mc make
+echo "🛠️ Installing essential tools (htop, btop, mc, make)..."
+sudo apt install -y htop btop mc make
 
 # Install Fish shell
 echo "🐠 Installing Fish shell..."
@@ -287,6 +288,12 @@ else
     echo "❌ htop installation failed"
 fi
 
+if command -v btop &> /dev/null; then
+    echo "✅ btop installed"
+else
+    echo "❌ btop installation failed"
+fi
+
 if command -v mc &> /dev/null; then
     echo "✅ Midnight Commander installed"
 else
@@ -321,6 +328,7 @@ echo "  4. Fish config location: ~/.config/fish/config.fish"
 echo ""
 echo "💡 Useful commands:"
 echo "  - htop: Interactive system monitor"
+echo "  - btop: Modern system monitor"
 echo "  - mc: Launch Midnight Commander file manager"
 echo "  - fish_config: Open Fish web-based configuration"
 echo "  - docker ps: List running containers"
