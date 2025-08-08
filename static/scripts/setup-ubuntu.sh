@@ -93,7 +93,7 @@ function fish_greeting
     echo "    ╔══════════════════════════════════════════╗"
     echo "    ║          Welcome to Fish Shell!          ║"
     echo "    ║                                          ║"
-    echo "    ║               ヽ(°〇°)ﾉ                   ║"
+    echo "    ║               ヽ(°〇°)ﾉ                  ║"
     echo "    ║                                          ║"
     echo "    ║   🐠 This server was configured with     ║"
     echo "    ║   the setup script from:                 ║"
